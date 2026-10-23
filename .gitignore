@@ -1,0 +1,15 @@
+# Dataset (download separately, see data/README.md)
+data/*.csv
+
+# Saved models
+models/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# OS / Office lock files
+.DS_Store
+Thumbs.db
+~$*
